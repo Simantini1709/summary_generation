@@ -40,7 +40,7 @@ Summarize the following dialogue conversation. FLAN-T5 performs better with such
     - MODEL GENERATION - ZERO SHOT: The train is about to leave.
 
 
-3. Zero-Shot Inference with Prompt Template
+3. One-Shot Inference with Prompt Template
 Use FLAN-T5’s pretrained style prompts (e.g., examples from T5 training corpus). Better captures structure but still lacks specificity at times.
 
 4. One-Shot and Few-Shot Inference
